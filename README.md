@@ -34,8 +34,7 @@ Open the project folder and simply run the index.html file in your browser.
 No server setup required 🚀
 
 🖼️ Screenshots
-
-(Add screenshots or a GIF demo of your app here)
+![Homepage](./homepage.png)  
 
 🤝 Contributing
 
