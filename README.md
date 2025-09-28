@@ -25,8 +25,7 @@ JavaScript (ES6+) – logic and interactivity
 📂 Project Setup
 
 Clone or download this repository:
-
-git clone https://github.com/your-username/quizapp.git
+https://github.com/dipak0304/QuizzApp
 
 
 Open the project folder and simply run the index.html file in your browser.
