@@ -1,3 +1,5 @@
+(./quiz.png) 
+
 QuizApp 🧠✨
 
 A simple and interactive quiz application built with HTML, CSS, and JavaScript. Users can test their knowledge, get instant results, and track their score.
