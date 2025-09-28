@@ -1,4 +1,4 @@
-(./quiz.png) 
+![preview](./quiz.png)  
 
 QuizApp 🧠✨
 
